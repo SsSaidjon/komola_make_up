@@ -1,0 +1,129 @@
+.tas {
+    display: inline-table;
+    margin: 10px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 19px;
+    background-color: darkblue;
+    text-align: center;
+
+    color: white;
+    border: 1px solid darkblue;
+    line-height: 55px;
+    font-family: "Lato", sans-serif;
+
+    
+}
+
+.tas:hover {
+    background-color: aliceblue;
+    color: darkblue;
+}
+
+.tas:active {
+    background-color: rgb(230, 230, 230);
+    color: rgb(74, 107, 135);
+    border: 1px solid rgb(74, 107, 135);
+    ;
+}
+
+.tas:focus {
+    background-color: rgb(0, 0, 0);
+    color: rgb(74, 107, 135);
+    border: 1px solid rgb(74, 107, 135);
+    ;
+}
+
+.c100 {
+    font-size: 30px;
+    font-weight: 100;
+    font-family: "Montserrat", sans-serif;
+}
+
+.c300 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: "Montserrat", sans-serif;
+}
+
+.c500 {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+}
+
+.c700 {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+.c900 {
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "Montserrat", sans-serif;
+}
+
+.f {
+    line-height: 20px;
+}
+
+p {
+    font-size: 50px;
+    line-height: 0px;
+
+}
+
+.p1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Montserrat", sans-serif
+}
+
+h2 {
+    color: rgb(75, 75, 75);
+    font-family: "Montserrat", sans-serif;
+}
+
+.p2 {
+    font-family: "Crimson Text", serif;
+}
+
+.p3 {
+    font-family: "Droid Sans";
+}
+
+.p4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.inp {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.innp {
+    border-color: rgb(0, 204, 255);
+    border-color: black;
+    border-width: 3px;
+    background-color: rgb(201, 201, 201);
+    font-size: 60px;
+    border-radius: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.innp:focus {
+    background-color: rgb(104, 104, 104);
+}
+
+.cardo {
+    font-family: 'Courier New', Courier, monospace;
+    font-family: "Montserrat", sans-serif
+}
+
+.crim {
+    font-family: "Crimson Text", serif;
+}
+
+.Droid {
+    font-family: "Droid Sans";
+}
